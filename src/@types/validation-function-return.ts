@@ -1,0 +1,1 @@
+export type ValidationFunctionReturn<T> = { success: true; } | { success: false; field: keyof T };

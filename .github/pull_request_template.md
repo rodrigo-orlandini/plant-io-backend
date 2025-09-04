@@ -1,11 +1,12 @@
-Description
-Briefly describe the purpose of this PR and what changes it introduces.
+### Description
 
-Type of change
-[ ] Feature
+<DESCRIPTION>
 
-[ ] Bug fix
+--- 
 
-[ ] Refactoring
+### Type of change
 
-[ ] Documentation
+- [ ] Feature
+- [ ] Bug fix
+- [ ] Refactoring
+- [ ] Documentation

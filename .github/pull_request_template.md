@@ -1,12 +1,5 @@
-### Description
+_**Type of change:** <FEATURE | FIX | REFACTOR | DOCUMENTATION | TESTS | INFRASTRUCTURE>_
 
-<DESCRIPTION>
-
---- 
-
-### Type of change
-
-- [ ] Feature
-- [ ] Bug fix
-- [ ] Refactoring
-- [ ] Documentation
+- <CHANGE 1>
+- <CHANGE 2>
+- <CHANGE 3>
